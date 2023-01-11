@@ -1,1 +1,1 @@
-# .github
+Ristocall.com official repository
